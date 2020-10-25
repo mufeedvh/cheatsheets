@@ -30,7 +30,7 @@ start doing stuff
 - `axt [0xaddress]` - find data/code references to an `address`
 - `pd [lines]` || `pd [lines]@[0xaddress]` - print `X` lines of disassembly
 
-# tips
+## tips
 
 ```asm
 push eax
