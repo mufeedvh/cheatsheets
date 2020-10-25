@@ -56,11 +56,10 @@ arguments to a function call can be seen on top of it as variables `push`ed to s
 
 - check for cross references (`ref/xref`s) on empty address values because they might be populated later on
 
+- function name example: `sym.main`
+
+- in a command: `pdf @sym.main`
+
+- calculation with `?` command: `? 0x6+9` -> `0x14`
+
 - feeling _fuck this shit im out?_ use `cutter`
-
-## calculation with `?` command
-
-`? 0x6+9` -> `0x14`
-
-**function name example:** `sym.main`
-**in a command:** `pdf @sym.main`
