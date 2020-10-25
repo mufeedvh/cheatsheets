@@ -61,3 +61,7 @@ arguments to a function call can be seen on top of it as variables `push`ed to s
 - calculation with `?` command: `? 0x6+9` -> `0x14`
 
 - feeling _fuck this shit im out?_ use `cutter`
+
+## resources
+
+- https://book.rada.re/
