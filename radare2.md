@@ -52,7 +52,7 @@ arguments to a function call can be seen on top of it as variables `push`ed to s
 <info and values of that address/variable>
 ```
 
-- `$$` in commands denotes where we are standing
+- `$$` in commands denotes where we are standing, kinda like `~ ~ ~` in minecraft lol
 
 - check for cross references (`ref/xref`s) on empty address values because they might be populated later on
 
