@@ -16,7 +16,8 @@ $ gdb [filename]
 
 ## commands
 
-- `break *[function]` - set breakpoint at the start of function
+- `break *[address]` - set breakpoint at the start of the function
+- `break [function.Function]` - set breakpoint at the start of the function (eg: `break strings.Compare`)
 - `run [args]` - duh?
 - `info registers` - get register state values (infos)
 - `s` - step one
