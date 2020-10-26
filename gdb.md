@@ -22,5 +22,6 @@ $ gdb [filename]
 - `si` - step +one instruction
 - `ni` - step +one through everything not only calls
 - `set $[instruction]=[value]` - set/change instruction (eg: `set $eax=0`) [with `info registers`]
+- `info args` - see if any arguments are passed to calls
 
 ---
