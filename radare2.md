@@ -15,6 +15,7 @@ start doing stuff
 
 ## commands
 
+- `?` - list/search all commands
 - `i` - file overview/info
 - `aaa` - analyse
 - `afl` - analyse functions list - lists all the functions
