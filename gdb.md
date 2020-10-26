@@ -19,6 +19,7 @@ $ gdb [filename]
 - `break *[function]` - set breakpoint at the start of function
 - `run [args]` - duh?
 - `info registers` - get register state values (infos)
+- `s` - step one
 - `si` - step +one instruction
 - `ni` - step +one through everything not only calls
 - `set $[instruction]=[value]` - set/change instruction (eg: `set $eax=0`) [with `info registers`]
